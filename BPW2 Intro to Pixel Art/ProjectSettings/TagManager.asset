@@ -9,7 +9,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Post Processing
   - Water
   - UI
   - Player
@@ -48,8 +48,14 @@ TagManager:
   - name: Structures
     uniqueID: 1431886997
     locked: 0
+  - name: Knights
+    uniqueID: 913761921
+    locked: 0
   - name: Ground
     uniqueID: 2258194599
+    locked: 0
+  - name: VFX
+    uniqueID: 561844727
     locked: 0
   - name: Player
     uniqueID: 240716503
