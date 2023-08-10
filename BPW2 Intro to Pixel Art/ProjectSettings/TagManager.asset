@@ -63,6 +63,9 @@ TagManager:
   - name: Crown
     uniqueID: 796565367
     locked: 0
+  - name: CollisionCheck
+    uniqueID: 3328073401
+    locked: 0
   - name: Foreground
     uniqueID: 2476000721
     locked: 0
