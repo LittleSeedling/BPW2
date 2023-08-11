@@ -45,6 +45,9 @@ TagManager:
   - name: Background
     uniqueID: 1798797981
     locked: 0
+  - name: LeafBackground
+    uniqueID: 4277307561
+    locked: 0
   - name: Structures
     uniqueID: 1431886997
     locked: 0
@@ -68,4 +71,10 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 2476000721
+    locked: 0
+  - name: LeafMidground
+    uniqueID: 903890235
+    locked: 0
+  - name: LeafForeground
+    uniqueID: 1980922633
     locked: 0
